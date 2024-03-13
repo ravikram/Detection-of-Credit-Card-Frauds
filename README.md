@@ -7,6 +7,7 @@
 This project delves into the intricate world of credit card fraud detection using machine learning, showcasing my expertise in:
 
 **Data Handling and Preprocessing:**
+ - Data Acquisition: Obtained the heavy data file directly from Kaggle, bypassing the need to store it locally. This approach ensured efficient handling of large datasets without compromising on processing speed or resource utilization.
 - Imbalanced Dataset Management: Effectively tackled the challenge of imbalanced data (0.172% fraud) through Principal Component Analysis (PCA) with scikit-learn, ensuring robust model training.
 - Data Transformation: Employed robust scaling and standardization techniques to prepare the data for analysis.
 - Splitting and Shuffling: Maintained data integrity by shuffling rows and splitting the dataset into training, validation, and testing sets.
